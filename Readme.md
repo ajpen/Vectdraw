@@ -1,6 +1,6 @@
 # VectDraw
 
-Vectdraw is a command line vector drawing application. vectdraw takes commands and Sixteen Fourteen encoded arguments for drawing on a vector plane via standard input or file, and outputs to standard out or file. 
+Vectdraw is a command line vector drawing application. vectdraw takes commands and arguments encoded in the [Sixteen Fourteen codec](https://github.com/ajpen/Sixteen-Fourteen-Codec) for drawing on a vector plane via standard input or file, and outputs to standard out or file. 
 
 Currently vectdraw only outputs the interpretation of the command. 
 
